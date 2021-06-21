@@ -74,5 +74,5 @@ Analysing subreddits from other product offerings (e.g. Google Home/Pixel)
 
 ### Data Sources 
 
-Google Cloud Subreddit: https://www.reddit.com/r/googlecloud/
+Google Cloud Subreddit: https://www.reddit.com/r/googlecloud/   
 AWS Subreddit: https://www.reddit.com/r/aws/
